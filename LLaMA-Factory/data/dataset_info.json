@@ -1,0 +1,10 @@
+{
+  "customs_data": {
+    "file_name": "customs_data.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": null,
+      "response": "output"
+    }
+  }
+}
